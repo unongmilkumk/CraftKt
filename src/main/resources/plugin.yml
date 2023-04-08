@@ -1,0 +1,6 @@
+name: CraftKt
+main: com.unongmilk.crafting.Main
+version: 1.0
+
+commands:
+  제작:

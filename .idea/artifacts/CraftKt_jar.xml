@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CraftKt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CraftKt</output-path>
+    <root id="archive" name="CraftKt.jar">
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
